@@ -1,0 +1,17 @@
+* {
+    color: #dadfe1;
+    background-color: #228c45;
+    font-family: 'Playfair Display', serif;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.contatti {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
